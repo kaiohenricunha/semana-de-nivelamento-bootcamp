@@ -3,23 +3,23 @@ const readline = require('readline-sync');
 var students = [
     {
         "name": "Ada",
-        "sex": "Feminino",
+        "sex": "Female",
       },
       {
         "name": "Marko",
-        "sex": "Masculino",
+        "sex": "Male",
       },
       {
         "name": "Ana",
-        "sex": "Feminino",
+        "sex": "Female",
       },
       {
         "name": "Karol",
-        "sex": "Feminino",
+        "sex": "Female",
       },
       {
         "name": "Kaio",
-        "sex": "Masculino",
+        "sex": "Male",
       },
 ];
 
