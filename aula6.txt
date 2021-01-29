@@ -1,0 +1,29 @@
+29/01 Ezer
+
+- perdi uns 20 minutos de aula pra resolver uma coisa. Tenho que assistir a gravação da parte que Ezer falou dos tópicos no Trello
+
+Júlia Carvalho Fremder to Everyone (7:22 AM)
+Kaio, ve entra no seu repositório, do lado vai ter dois bonequinhos
+clica la e seleciona members
+acho que dai vc consegue continuar la
+
+Gabi, @ezer.mello1 @professor_liniquer @pedrohenriqueSs e @wellington.psantos
+
+- comando npm pra começar um projeto do zero:
+?????????
+
+[Yesterday 7:26 PM] Kessyus Fofano dos Santos
+    nessa pasta do exercício-01.js vc precisa instalar o pacote do readline-sync
+​[Yesterday 7:26 PM] Kessyus Fofano dos Santos
+    roda dentro dessa pasta os comandos:
+​[Yesterday 7:27 PM] Kessyus Fofano dos Santos
+    npm init -y
+​[Yesterday 7:27 PM] Kessyus Fofano dos Santos
+    e depois
+​[Yesterday 7:27 PM] Kessyus Fofano dos Santos
+    
+npm install readline-sync
+
+
+Git:
+1) 
